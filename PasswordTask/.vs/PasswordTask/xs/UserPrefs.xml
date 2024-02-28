@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{9A99657E-9218-474F-9749-597B562CC38D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PasswordTask/Program.cs">
+    <Files>
+      <File FileName="PasswordTask/Program.cs" Line="6" Column="41" />
+      <File FileName="PasswordTask/Models/User.cs" Line="23" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PasswordTask" expanded="True">
+            <Node name="PasswordTask" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PasswordTask PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
